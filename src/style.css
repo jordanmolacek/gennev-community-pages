@@ -1,0 +1,32 @@
+h1, p {
+  font-family: Lato;
+}
+
+.testimonial-card {
+  margin-bottom: 10px;
+}
+
+.testimonial-image {
+  height: auto;
+  width: 130px;
+}
+
+.testimonial-form-container {
+  margin-bottom: 10px;
+}
+
+.testimonial-submit-button {
+  margin-top: 10px;
+}
+
+.testimonial-comment {
+  white-space: pre-wrap;
+}
+
+.input-error {
+  border-color: red;
+}
+
+.inputer-error-label {
+  color: red;
+}
